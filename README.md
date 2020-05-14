@@ -7,7 +7,7 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 ## How to Run:
 
-1. [Download](https://github.com/venkatAmigo/MyReadsReact/master.zip) or [Clone] https://github.com/SravyaPranati/MyReadsReact.git) the Repository.
+1. [Download](https://github.com/venkatAmigo/MyReadsReact/master.zip) or [Clone] https://github.com/venkatamigo/MyReadsReact.git) the Repository.
 2. Run `npm install` to install the project dependencies.
 3. Run the app using `npm start`.
 4. App can be seen at: `localhost:3000`. 
